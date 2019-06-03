@@ -2,9 +2,9 @@
   <div id="global-layout">
     <header style="background-color: #DDD">
       <router-link to="/">{{ $site.title }}</router-link>· <router-link to="/tag/">Tag</router-link>
-    </header>
-    <DefaultGlobalLayout/>
-    <footer style="background-color: #DDD"><router-link to="https://github.com/ulivz">ULIVZ</router-link> · Powered by VuePress</footer>
+    </header><br>
+    <DefaultGlobalLayout/><br>
+    <footer style="background-color: #DDD"><router-link to="https://github.com/ulivz">ULIVZ</router-link> · Powered by VuePress</p>
   </div>
 </template>
 
