@@ -1,7 +1,7 @@
 <template>
   <div id="global-layout">
     <header style="background-color: #DDD">
-      <router-link to="/">{{ $site.title }}</router-link>· <a href="/tag/">Tag</a>
+      <router-link to="/">{{ $site.title }}</router-link>· <router-link to="/tag/">Tag</router-link>
     </header>
     <DefaultGlobalLayout/>
     <footer style="background-color: #DDD">Powered by VuePress</footer>
