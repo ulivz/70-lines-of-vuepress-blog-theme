@@ -4,7 +4,7 @@
       <router-link to="/">{{ $site.title }}</router-link>· <router-link to="/tag/">Tag</router-link>
     </header>
     <DefaultGlobalLayout/>
-    <footer style="background-color: #DDD">Powered by VuePress</footer>
+    <footer style="background-color: #DDD"><router-link to="https://github.com/ulivz">ULIVZ</router-link> · Powered by VuePress</footer>
   </div>
 </template>
 
