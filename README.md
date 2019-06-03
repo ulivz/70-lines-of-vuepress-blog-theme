@@ -15,7 +15,7 @@ All of following features are out-of-box:
 - Blogging Convention
 - Blog-Styled Permalinks
 - Pagination
-- Frontmattrr-Based Tag Classification
+- Frontmatter-Based Tag Classification
 
 
 ## License
