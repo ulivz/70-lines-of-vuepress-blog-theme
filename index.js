@@ -20,7 +20,7 @@ module.exports = {
           frontmatter: { title: 'Tag' },
           itemlayout: 'Tag',
           pagination: {
-            perPagePosts: 2
+            perPagePosts: 3
           }
         },
       ]
