@@ -1,5 +1,7 @@
 # 70-lines-of-vuepress-blog-theme
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/70-lines-of-vuepress-blog-theme.svg)](https://greenkeeper.io/)
+
 A VuePress Blog Theme implemented in around 70 lines.
 
 
